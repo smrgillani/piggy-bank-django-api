@@ -1,0 +1,22 @@
+#run commands with root/admin power
+#below command updating pip package 
+#python -m pip install --upgrade pip
+
+
+#below command will install "rest_framework" module for this project
+python -m pip install djangorestframework
+
+
+#below command installs the "channels" module for this project
+python -m pip install -U channels
+
+
+#below command installs the "rest_framework_jwt" module for this project
+pip install djangorestframework-jwt
+
+
+#below command will install the "corsheaders" module for this project
+python -m pip install django-cors-headers
+
+#below command will install the "mysqlclient" module for this project
+python -m pip install mysqlclient
